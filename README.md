@@ -1,4 +1,6 @@
 ****Notes Section:****
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6772c524-e865-4d08-83f7-c4768d4dcbbe" />
+
 
 **Exploratory Data Analysis(EDA)**
 Exploratory Data Analysis is a process of examining or understanding the data and extracting insights or main characteristics of the data. EDA is generally classified into two methods, i.e. graphical analysis and non-graphical analysis. EDA is very essential because it is a good practice to first understand the problem statement and the various relationships between the data features before getting your hands dirty.
